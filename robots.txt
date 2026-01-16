@@ -3,4 +3,4 @@ Disallow: /admin/
 Disallow: /login/
 Allow: /
 
-Sitemap: https://www.casinoonlinewhatsapp.com/sitemap.xml
+Sitemap: https://www.casinosconfiable.com/sitemap.xml
