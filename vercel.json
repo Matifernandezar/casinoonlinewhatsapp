@@ -14,7 +14,7 @@
           "value": "http"
         }
       ],
-      "destination": "https://casinonlinewhatsapp.com/$1",
+      "destination": "https://casinosconfiable.com/$1",
       "permanent": true
     },
     {
@@ -22,10 +22,10 @@
       "has": [
         {
           "type": "host",
-          "value": "www.casinonlinewhatsapp.com"
+          "value": "www.casinosconfiable.com"
         }
       ],
-      "destination": "https://casinonlinewhatsapp.com/$1",
+      "destination": "https://casinosconfiable.com/$1",
       "permanent": true
     }
   ]
